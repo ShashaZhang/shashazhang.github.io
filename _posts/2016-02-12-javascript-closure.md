@@ -41,6 +41,7 @@ url: /javascript/javascript-closure
 - 闭包中的bad smell
 
 ##什么是闭包呢？
+
 我们来看一个简单的例子。
 
     function makeAdder(captured){
